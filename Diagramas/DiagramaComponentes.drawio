@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T04:31:52.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1UntMl5Jsk0QPByUARze" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T04:34:24.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-E5Cbbr0aWovpG-zWwMg" version="22.0.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1166" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -172,6 +172,12 @@
         </mxCell>
         <mxCell id="_4taWisS1Fcv63W9ZUAf-67" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="420" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_4taWisS1Fcv63W9ZUAf-68" value="&amp;lt;&amp;lt;query&amp;gt;&amp;gt;&lt;br&gt;SELECT lan, lon FROM zonas WHERE zonaID =&#39;$value&#39; LIMIT 1" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="395" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4taWisS1Fcv63W9ZUAf-69" value="&amp;lt;&amp;lt;query&amp;gt;&amp;gt;&lt;br&gt;SELECT zonaID, zonaNom FROM zonas ORDER BY zonaID" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="500" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
