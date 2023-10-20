@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T19:59:53.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="fbYEn-_YmoLa9R4sTHZP" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T20:06:28.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="TD96WxlLpo0PI6s59rlD" version="22.0.5" type="github">
   <diagram name="Página-1" id="RVKXWNZxPpr6Yc6Sv1PD">
-    <mxGraphModel dx="3163" dy="2594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3538" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,16 +112,6 @@
               <mxPoint x="340" y="280" />
               <mxPoint x="-280" y="280" />
               <mxPoint x="-280" y="920" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IPV2-cLLf_qmS4peG7To-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="MkPk-bmzPGhCvci8b6rm-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="710" as="sourcePoint" />
-            <mxPoint x="380" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="640" />
-              <mxPoint x="380" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -305,6 +295,15 @@
         </mxCell>
         <mxCell id="ddkNe6Mo585TkUD52_q1-23" value="&amp;lt;&amp;lt;query&amp;gt;&amp;gt;&lt;br&gt;SELECT * FROM orders" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="714" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ddkNe6Mo585TkUD52_q1-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IPV2-cLLf_qmS4peG7To-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="784" as="sourcePoint" />
+            <mxPoint x="340" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
