@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T01:39:25.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1dtKsRQPjbLIracQs3Dl" version="22.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-21T02:00:15.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qAEWlbZ8Vs8bYC1OCEpJ" version="22.0.6" type="github" pages="4">
   <diagram name="Despliegue" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="2390" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="J5J9uf3mER5z5vJLkw7r-120" value="&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;br&gt;verify.php" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="J5J9uf3mER5z5vJLkw7r-116" vertex="1">
           <mxGeometry x="10" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J5J9uf3mER5z5vJLkw7r-150" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Services&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="J5J9uf3mER5z5vJLkw7r-116" vertex="1">
+        <mxCell id="J5J9uf3mER5z5vJLkw7r-150" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Controller&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="J5J9uf3mER5z5vJLkw7r-116" vertex="1">
           <mxGeometry x="125" y="-30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J5J9uf3mER5z5vJLkw7r-123" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="J5J9uf3mER5z5vJLkw7r-5" target="J5J9uf3mER5z5vJLkw7r-74" edge="1">
