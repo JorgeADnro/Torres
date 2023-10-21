@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T20:31:49.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="-MJMA8laQirYYGOp811g" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T00:07:38.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="CcUGFXxuELQLv8ruECro" version="22.0.5" type="github">
   <diagram name="Página-1" id="RVKXWNZxPpr6Yc6Sv1PD">
-    <mxGraphModel dx="3016" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,8 +190,8 @@
         <mxCell id="ddkNe6Mo585TkUD52_q1-4" value="&amp;lt;&amp;lt;query&amp;gt;&amp;gt;&lt;br&gt;borrar.php" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ddkNe6Mo585TkUD52_q1-5" value="&amp;lt;&amp;lt;query&amp;gt;&amp;gt;&lt;br&gt;editar.php" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="ddkNe6Mo585TkUD52_q1-5" value="&amp;lt;&amp;lt;query&amp;gt;&amp;gt;&lt;br&gt;cantidad.php" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="620" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ddkNe6Mo585TkUD52_q1-7" value="&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;br&gt;connection.php" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="902" y="570" width="170" height="60" as="geometry" />
