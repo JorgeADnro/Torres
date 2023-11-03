@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T05:19:58.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6ru1haTvsjEro1b0h8U0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T05:26:11.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fq-tzgn2saCEZGbO-lms" version="22.0.8" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1254" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,13 @@
           <mxGeometry x="627.5" y="900" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QajAvCTBg06aMJkXzNH2-171" value="admin" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=0;collapsible=0;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="440" width="837.5" height="450" as="geometry" />
+          <mxGeometry x="50" y="440" width="837.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QajAvCTBg06aMJkXzNH2-172" value="&amp;lt;&amp;lt;folder&amp;gt;&amp;gt;&lt;br&gt;css" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="489.9981065904837" width="100" height="54.18185400453157" as="geometry" />
+        </mxCell>
+        <mxCell id="QajAvCTBg06aMJkXzNH2-173" value="&amp;lt;&amp;lt;library&amp;gt;&amp;gt;&lt;br&gt;bootstrap" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="489.9981065904837" width="100" height="54.18185400453157" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
