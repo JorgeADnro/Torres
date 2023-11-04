@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T00:39:42.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="uXaQtI4qb0OKrXePPLWs" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T01:04:11.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="AINb77lNVwgeyQhraAFE" version="22.0.8" type="github">
   <diagram name="Página-1" id="RVKXWNZxPpr6Yc6Sv1PD">
-    <mxGraphModel dx="2445" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IPV2-cLLf_qmS4peG7To-83" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="-10" width="1700" height="200" as="geometry" />
+          <mxGeometry x="-350" y="-10" width="1700" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="IPV2-cLLf_qmS4peG7To-82" value="Front-End" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=0;collapsible=0;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="90" width="850" height="90" as="geometry" />
@@ -96,8 +96,8 @@
             <mxPoint x="120" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPV2-cLLf_qmS4peG7To-20" value="&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;br&gt;onlinepay.php" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="297" y="299.99992119003053" width="170" height="65.01822480543788" as="geometry" />
+        <mxCell id="IPV2-cLLf_qmS4peG7To-20" value="&amp;lt;&amp;lt;file&amp;gt;&amp;gt;&lt;br&gt;payment-method.php" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="300" width="183" height="65.02" as="geometry" />
         </mxCell>
         <mxCell id="IPV2-cLLf_qmS4peG7To-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="IPV2-cLLf_qmS4peG7To-20" edge="1">
           <mxGeometry relative="1" as="geometry">
