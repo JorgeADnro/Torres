@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T05:58:29.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VupGoxQIN5w1vKkhwyUW" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T05:59:35.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Bd_8E7p0pR8fhqfm0Oxt" version="22.1.2" type="github">
   <diagram name="Página-1" id="AGlon7vXLh7kV010BHI9">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="640" y="120" width="146" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MELCGgleGmG68tQJ86Zz-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;lt;&amp;lt;file&amp;gt;&amp;gt; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;php.ini&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="636" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MELCGgleGmG68tQJ86Zz-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;lt;&amp;lt;table&amp;gt;&amp;gt; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;jugadores&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="270" width="146" height="50" as="geometry" />
@@ -126,13 +126,13 @@
             <mxPoint x="457" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MELCGgleGmG68tQJ86Zz-45" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.062;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MELCGgleGmG68tQJ86Zz-6" target="MELCGgleGmG68tQJ86Zz-11">
+        <mxCell id="MELCGgleGmG68tQJ86Zz-45" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MELCGgleGmG68tQJ86Zz-6" target="MELCGgleGmG68tQJ86Zz-11">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="445" y="446" as="sourcePoint" />
             <mxPoint x="467" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MELCGgleGmG68tQJ86Zz-46" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.068;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MELCGgleGmG68tQJ86Zz-6" target="MELCGgleGmG68tQJ86Zz-12">
+        <mxCell id="MELCGgleGmG68tQJ86Zz-46" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MELCGgleGmG68tQJ86Zz-6" target="MELCGgleGmG68tQJ86Zz-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="455" y="456" as="sourcePoint" />
             <mxPoint x="477" y="421" as="targetPoint" />
@@ -142,6 +142,18 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="465" y="466" as="sourcePoint" />
             <mxPoint x="487" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MELCGgleGmG68tQJ86Zz-52" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=10;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MELCGgleGmG68tQJ86Zz-8" target="MELCGgleGmG68tQJ86Zz-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="211.5" as="sourcePoint" />
+            <mxPoint x="633" y="138.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MELCGgleGmG68tQJ86Zz-53" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MELCGgleGmG68tQJ86Zz-8" target="MELCGgleGmG68tQJ86Zz-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="553" y="114" as="sourcePoint" />
+            <mxPoint x="656" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
