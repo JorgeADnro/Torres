@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T04:25:55.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rooa3L4NJTcT-eLCtSfW" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T04:26:13.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f8626RHeZl9v0K3oke0w" version="22.1.7" type="github">
   <diagram name="Página-1" id="1VkCMX_6mBlBxNHUhh2H">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yjbWLHz0moNetwAKhXoF-9" value="Main" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yjbWLHz0moNetwAKhXoF-9" value="&lt;b&gt;Main&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="129" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="yjbWLHz0moNetwAKhXoF-11" value="+ main: void()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yjbWLHz0moNetwAKhXoF-9">
@@ -46,7 +46,7 @@
         <mxCell id="yjbWLHz0moNetwAKhXoF-46" value="implements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yjbWLHz0moNetwAKhXoF-48" value="LibroDAO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yjbWLHz0moNetwAKhXoF-48" value="&lt;b&gt;LibroDAO&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yjbWLHz0moNetwAKhXoF-50" value="&lt;div&gt;+obtenerTodos()&lt;/div&gt;&lt;div&gt;+obtenerPorId()&lt;/div&gt;&lt;div&gt;+agregarLibro()&lt;/div&gt;&lt;div&gt;+actualizarLibro()&lt;/div&gt;&lt;div&gt;+eliminarLibro()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="yjbWLHz0moNetwAKhXoF-48">
